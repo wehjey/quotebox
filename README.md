@@ -2,6 +2,8 @@
 
 ### Minimal Community Powered Quote Box!
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/683a77b6-9500-4b04-a30c-57ab5fef13f9/deploy-status)](https://app.netlify.com/sites/quotebox/deploys)
+
 ## 💥 How To Contribute? 
 
 * Star & Fork This Repository
