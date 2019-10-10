@@ -1,12 +1,14 @@
 [
     {
-        "quote" : "Even Fiction Becomes Real When You Start Believing It",
-        "speaker" : "Palash Bauri"
+        "quote": "Even Fiction Becomes Real When You Start Believing It",
+        "speaker": "Palash Bauri"
     },
-    
     {
-        "quote" : "The present is theirs; the future, for which I really   worked, is mine.",
-        "speaker" : "Nikola Tesla"
+        "quote": "The present is theirs; the future, for which I really   worked, is mine.",
+        "speaker": "Nikola Tesla"
+    },
+    {
+        "quote": "640K ought to be enough for anybody",
+        "speaker": "Bill Gates"
     }
-
 ]
