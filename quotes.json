@@ -52,6 +52,12 @@
     "speaker": "Virat Kohli"
   },
   {
+
+    "quote": "The most dangerous phrase in our language is 'We have always done it that way.' ",
+    "speaker": "Grace Hopper"
+  },
+  {
+
     "quote": "You get what you give",
     "speaker": "Jennifer Lopez"
   },
@@ -161,5 +167,6 @@
   {
     "quote": "Only I can change my life. No one can do it for me.",
     "speaker": "Carol Burnett"
+
   }
 ]
