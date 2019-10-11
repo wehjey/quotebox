@@ -1,4 +1,4 @@
-  {
+[{
     "quote": "Even Fiction Becomes Real When You Start Believing It",
     "speaker": "Palash Bauri"
   },
@@ -36,7 +36,7 @@
   },
   {
 
-    "quote": "Never buy gold, simply earn it.",
+     "quote": "Never buy gold, simply earn it.",
     "speaker": "Mary Kom"
   },
   {
@@ -49,11 +49,11 @@
   },
   {
 
-    "quote": "People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.",
+     "quote": "People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.",
     "speaker": "Pedro Domingos (Author of The Master Algorithm)"
 
-  }
+   }
   {
     "quote": "Pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
     "speaker": "Maya Angelou"
-  }
+  }]
