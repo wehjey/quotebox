@@ -8,6 +8,10 @@
     "speaker": "Nikola Tesla"
   },
   {
+    "quote": "640K ought to be enough for anybody",
+    "speaker": "Bill Gates"
+  },
+  {
     "quote": "Don’t compare yourself with anyone in this world…if you do so, you are insulting yourself.",
     "speaker": "Bill Gates"
   },
@@ -34,5 +38,39 @@
   {
     "quote": "However difficult life may seem, there is always something you can do and succeed at.",
     "speaker": "Stephen Hawking"
+  },
+  {
+    "quote": "Never buy gold, simply earn it.",
+    "speaker": "Mary Kom"
+  },
+  {
+    "quote": "Self-belief and hard work will always earn you success.",
+    "speaker": "Virat Kohli"
+  },
+  {
+    "quote": "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.",
+    "speaker": "Isaac Newton"
+  },
+  {
+
+    "quote": "People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.",
+    "speaker": "Pedro Domingos (Author of The Master Algorithm)"
+  },
+  {
+
+    "quote": "All that we are is the result of what we have thought",
+    "speaker": "Buddha"
+  },
+  {
+      "quote": "It’s not the mountain we conquer, but ourselves.",
+      "speaker": "Sir Edmund Hillary"
+  },
+  {
+    "quote": "There is only one way to avoid criticism. Do nothing, say nothing, and be nothing.",
+    "speaker": "Aristotle"
+  },
+  {
+    "quote": "All happy families are alike; each unhappy family is unhappy in its own way.",
+    "speaker": "Leo Tolstoy"
   }
 ]
