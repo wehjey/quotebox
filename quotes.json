@@ -4,6 +4,10 @@
     "speaker": "Virginia Woolf"
   },
   {
+    "quote": "Sometimes life is going to hit you in the head with a brick. Don't lose faith",
+    "speaker": "Steve Jobs"
+  },
+  {
     "quote": "Even Fiction Becomes Real When You Start Believing It",
     "speaker": "Palash Bauri"
   },
@@ -171,5 +175,23 @@
   {  
     "quote":"You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
     "speaker": "Steve Jobs"
+
+  },
+  {
+
+    "quote": "At forty, I was too old to work as a programmer myself anymore; writing code is a young person’s job",
+    "speaker": "Michael Crichton"
+  },
+  {
+
+    "quote": "Winning and losing isn't everything. Sometimes, the journey is just as important as the outcome..",
+    "speaker": "Alex Morgan"
+  },
+  {
+
+    "quote": "When something is important enough, you do it even if the odds are not in your favor.",
+    "speaker": "Elon Musk"
+
   }
+
 ]
