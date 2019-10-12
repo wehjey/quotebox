@@ -183,6 +183,13 @@
   },
   {
 
+  },
+  {
+    "quote": "If you want to build a ship, don't drum up people together to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
+    "speaker": "Antoine de Saint Exupery"
+
+  },
+  {
     "quote": "At forty, I was too old to work as a programmer myself anymore; writing code is a young person’s job",
     "speaker": "Michael Crichton"
   },
@@ -229,6 +236,7 @@
   {
     "quote": "There’s only one way to get good at anything; you surround yourself with the best who are doing exactly you do and you force yourself to keep up and inspire each other.",
     "speaker": "Joe Rogan"
+
   }
 
 ]
