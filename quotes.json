@@ -213,6 +213,10 @@
 
   },
   {
+  	"quote": "I do not fear computers. I fear the lack of them.",
+	  "speaker": "Isaac Asimov"
+  },
+  {
     "quote": "When you do things right, people won't be sure you've done anything at all.",
     "speaker": "God Entity, Futurama"
 
@@ -220,6 +224,7 @@
   {
     "quote": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
     "speaker": "Brian Kernighan"
+
   }
 
 ]
