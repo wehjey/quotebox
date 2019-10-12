@@ -60,7 +60,6 @@
     "speaker": "Grace Hopper"
   },
   {
-
     "quote": "You get what you give",
     "speaker": "Jennifer Lopez"
   },
@@ -210,7 +209,7 @@
   },
   {
   	"quote": "I do not fear computers. I fear the lack of them.",
-	  "speaker": "Isaac Asimov"
+    "speaker": "Isaac Asimov"
   },
   {
     "quote": "When you do things right, people won't be sure you've done anything at all.",
@@ -223,7 +222,10 @@
   {
     "quote": "There’s only one way to get good at anything; you surround yourself with the best who are doing exactly you do and you force yourself to keep up and inspire each other.",
     "speaker": "Joe Rogan"
+  },
+  {
+    "quote": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "speaker": "Mahatma Gandhi"
   }
-
 ]
 
