@@ -233,6 +233,11 @@
     "speaker": "Mahatma Gandhi"
   },
   {
+
+    "quote": "Even the darkest night will end and the sun will rise.",
+    "speaker": "Victor hugo"
+  },
+  {
     "quote": "Success is not final, failure is not fatal : it is the courage to continue that counts.",
     "speaker": "Winston Churchill"
   },
@@ -247,7 +252,6 @@
   {
     "quote": "No valid plans for the future can be made by those who have no capacity for living now",
     "speaker": "Alan Watts"
-
   }
 ]
 
