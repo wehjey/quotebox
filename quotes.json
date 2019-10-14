@@ -171,6 +171,11 @@
     "quote": "Only I can change my life. No one can do it for me.",
     "speaker": "Carol Burnett"
   },
+
+  {
+    "quote": "The world is your oyster.",
+    "speaker": "Shakespeare"
+  },
   {  
     "quote":"You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
     "speaker": "Steve Jobs"
@@ -228,8 +233,40 @@
     "speaker": "Mahatma Gandhi"
   },
   {
+
     "quote": "Be yourself; everyone else is already taken.",
     "speaker": "Oscar Wilde"
+  },
+  {
+
+    "quote": "The greatest victory is that which requires no battle.",
+    "speaker": "Sun Tzu"
+  },
+  {
+
+    "quote": "Even the darkest night will end and the sun will rise.",
+    "speaker": "Victor hugo"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal : it is the courage to continue that counts.",
+    "speaker": "Winston Churchill"
+  },
+  {
+    "quote": "Cogito ergo sum. (I think; therefore I am)",
+    "speaker": "Rene Descartes"
+  },
+  {
+    "quote": "A man who dares to waste one hour of time has not discovered the value of life.",
+    "speaker": "Charles Darwin"
+  },
+  {
+    "quote": "No valid plans for the future can be made by those who have no capacity for living now",
+    "speaker": "Alan Watts"
+
+  },
+  {
+    "quote": "Power Corrupts, and Absolute Power Corrupts Absolutely",
+    "speaker": "Lord Acton"
+
   }
 ]
-
