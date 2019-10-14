@@ -237,6 +237,12 @@
     "speaker": "Mahatma Gandhi"
   },
   {
+
+    "quote": "Be yourself; everyone else is already taken.",
+    "speaker": "Oscar Wilde"
+  },
+  {
+
     "quote": "The greatest victory is that which requires no battle.",
     "speaker": "Sun Tzu"
   },
@@ -259,9 +265,16 @@
   {
     "quote": "No valid plans for the future can be made by those who have no capacity for living now",
     "speaker": "Alan Watts"
+
   },
   {
     "quote": "The reality is: sometimes you lose. And you’re never too good to lose. You’re never too big to lose. You’re never too smart to lose. It happens.",
     "speaker": "Beyoncé Knowles"
+
+  },
+  {
+    "quote": "Power Corrupts, and Absolute Power Corrupts Absolutely",
+    "speaker": "Lord Acton"
+
   }
 ]
