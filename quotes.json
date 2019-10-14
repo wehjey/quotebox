@@ -4,6 +4,11 @@
     "speaker": "Virginia Woolf"
   },
   {
+    "quote": "work smart, not hard",
+    "speaker": "jackson Nkhata"
+  },
+
+  {
     "quote": "Sometimes life is going to hit you in the head with a brick. Don't lose faith",
     "speaker": "Steve Jobs"
   },
@@ -22,6 +27,12 @@
   {
     "quote": "Don’t compare yourself with anyone in this world…if you do so, you are insulting yourself.",
     "speaker": "Bill Gates"
+  },
+
+  {
+    "quote": "Life id like a double sided coin. It bring both bad and good with it how you handle and live it is up to you",
+    "speaker": "Desire Lumene"
+
   },
   {
     "quote": "Don't believe anything you read on the net. Except this. Well, including this, I suppose.",
@@ -70,7 +81,11 @@
   {
     "quote": "People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.",
     "speaker": "Pedro Domingos (Author of The Master Algorithm)"
-   },
+  },
+  {
+    "quote": "Pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
+    "speaker": "Maya Angelou"
+  },
   {
     "quote": "Pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
     "speaker": "Maya Angelou"
@@ -176,8 +191,8 @@
     "quote": "The world is your oyster.",
     "speaker": "Shakespeare"
   },
-  {  
-    "quote":"You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
+  {
+    "quote": "You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
     "speaker": "Steve Jobs"
   },
   {
@@ -205,15 +220,15 @@
     "speaker": "Stephen Chbosky"
   },
   {
-    "quote":"Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
-    "speaker":"Chanakya, Indian philosopher, economist, jurist and royal advisor."
+    "quote": "Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
+    "speaker": "Chanakya, Indian philosopher, economist, jurist and royal advisor."
   },
   {
     "quote": "Lightning makes no sound until it strikes.",
     "speaker": "Martin Luther King Jr."
   },
   {
-  	"quote": "I do not fear computers. I fear the lack of them.",
+    "quote": "I do not fear computers. I fear the lack of them.",
     "speaker": "Isaac Asimov"
   },
   {
@@ -234,11 +249,15 @@
   },
   {
 
+    "quote": "Be yourself; everyone else is already taken.",
+    "speaker": "Oscar Wilde"
+  },
+  {
+
     "quote": "The greatest victory is that which requires no battle.",
     "speaker": "Sun Tzu"
   },
   {
-
     "quote": "Even the darkest night will end and the sun will rise.",
     "speaker": "Victor hugo"
   },
@@ -257,11 +276,53 @@
   {
     "quote": "No valid plans for the future can be made by those who have no capacity for living now",
     "speaker": "Alan Watts"
+  },
+  {
+
 
   },
+
   {
     "quote" : "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime",
     "speaker" : "David Leinweber"
-  }
-]
+  },
+  { 
+    "quote":"Happiness is when what you think, what you say, and what you do are in harmony",
+    "speaker":"Mahatma Gandhi"
+  },
+  {
 
+  "quote:": "They laugh at me because I'm different. I laugh at them because they are all the same.",
+  "speaker": "Kurt Cobain"
+  },
+  {
+    "quote": "Keep your friends close, your enemies even closer.",
+    "speaker": "Sun Tzu"
+
+  },
+  {
+    "quote": "The reality is: sometimes you lose. And you’re never too good to lose. You’re never too big to lose. You’re never too smart to lose. It happens.",
+    "speaker": "Beyoncé Knowles"
+
+  },
+  {
+    "quote": "Wherever you go becomes a part of you somehow.",
+    "speaker": "Anita Desai"
+  },
+  {
+    "quote": "Power Corrupts, and Absolute Power Corrupts Absolutely",
+    "speaker": "Lord Acton"
+
+  },
+  {
+    "quote": "If you think you can do a thing or think you can’t do a thing, you’re right.",
+     "speaker": "Henry Ford"
+
+
+  },
+  {
+    "quote": "I dream. Sometimes I think that's the only right thing to do.",
+    "speaker":"Haruki Murakami"
+  }
+
+]

@@ -3,6 +3,7 @@
 ### Minimal Community Powered Quote Box!
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/683a77b6-9500-4b04-a30c-57ab5fef13f9/deploy-status)](https://app.netlify.com/sites/quotebox/deploys)
+[![Actions Status](https://github.com/bauripalash/quotebox/workflows/Node%20CI/badge.svg)](https://github.com/bauripalash/quotebox/actions)
 
 ## 💥 How To Contribute? 
 
