@@ -278,6 +278,11 @@
     "speaker": "Alan Watts"
   },
   {
+
+  "quote:": "They laugh at me because I'm different. I laugh at them because they are all the same.",
+  "speaker": "Kurt Cobain"
+  },
+  {
     "quote": "Keep your friends close, your enemies even closer.",
     "speaker": "Sun Tzu"
 
@@ -291,8 +296,10 @@
     "quote": "Power Corrupts, and Absolute Power Corrupts Absolutely",
     "speaker": "Lord Acton"
 
-  },{
+  },
+  {
     "quote": "If you think you can do a thing or think you can’t do a thing, you’re right.",
      "speaker": "Henry Ford"
+
   }
 ]
