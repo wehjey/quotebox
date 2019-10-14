@@ -4,6 +4,11 @@
     "speaker": "Virginia Woolf"
   },
   {
+    "quote": "work smart, not hard",
+    "speaker": "jackson Nkhata"
+  },
+
+  {
     "quote": "Sometimes life is going to hit you in the head with a brick. Don't lose faith",
     "speaker": "Steve Jobs"
   },
@@ -22,6 +27,12 @@
   {
     "quote": "Don’t compare yourself with anyone in this world…if you do so, you are insulting yourself.",
     "speaker": "Bill Gates"
+  },
+
+  {
+    "quote": "Life id like a double sided coin. It bring both bad and good with it how you handle and live it is up to you",
+    "speaker": "Desire Lumene"
+
   },
   {
     "quote": "Don't believe anything you read on the net. Except this. Well, including this, I suppose.",
@@ -70,7 +81,11 @@
   {
     "quote": "People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.",
     "speaker": "Pedro Domingos (Author of The Master Algorithm)"
-   },
+  },
+  {
+    "quote": "Pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
+    "speaker": "Maya Angelou"
+  },
   {
     "quote": "Pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
     "speaker": "Maya Angelou"
@@ -176,8 +191,8 @@
     "quote": "The world is your oyster.",
     "speaker": "Shakespeare"
   },
-  {  
-    "quote":"You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
+  {
+    "quote": "You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
     "speaker": "Steve Jobs"
   },
   {
@@ -205,15 +220,15 @@
     "speaker": "Stephen Chbosky"
   },
   {
-    "quote":"Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
-    "speaker":"Chanakya, Indian philosopher, economist, jurist and royal advisor."
+    "quote": "Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
+    "speaker": "Chanakya, Indian philosopher, economist, jurist and royal advisor."
   },
   {
     "quote": "Lightning makes no sound until it strikes.",
     "speaker": "Martin Luther King Jr."
   },
   {
-  	"quote": "I do not fear computers. I fear the lack of them.",
+    "quote": "I do not fear computers. I fear the lack of them.",
     "speaker": "Isaac Asimov"
   },
   {
@@ -231,6 +246,20 @@
   {
     "quote": "The weak can never forgive. Forgiveness is the attribute of the strong.",
     "speaker": "Mahatma Gandhi"
+  },
+  {
+
+    "quote": "Be yourself; everyone else is already taken.",
+    "speaker": "Oscar Wilde"
+  },
+  {
+
+    "quote": "The greatest victory is that which requires no battle.",
+    "speaker": "Sun Tzu"
+  },
+  {
+    "quote": "Even the darkest night will end and the sun will rise.",
+    "speaker": "Victor hugo"
   },
   {
     "quote": "Success is not final, failure is not fatal : it is the courage to continue that counts.",
@@ -251,6 +280,16 @@
   {
     "quote": "Keep your friends close, your enemies even closer.",
     "speaker": "Sun Tzu"
+
+  },
+  {
+    "quote": "The reality is: sometimes you lose. And you’re never too good to lose. You’re never too big to lose. You’re never too smart to lose. It happens.",
+    "speaker": "Beyoncé Knowles"
+
+  },
+  {
+    "quote": "Power Corrupts, and Absolute Power Corrupts Absolutely",
+    "speaker": "Lord Acton"
+
   }
 ]
-
