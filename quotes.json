@@ -279,6 +279,14 @@
   },
   {
 
+
+  },
+  { 
+    "quote":"Happiness is when what you think, what you say, and what you do are in harmony",
+    "speaker":"Mahatma Gandhi"
+  },
+  {
+
   "quote:": "They laugh at me because I'm different. I laugh at them because they are all the same.",
   "speaker": "Kurt Cobain"
   },
@@ -311,4 +319,5 @@
     "quote": "I dream. Sometimes I think that's the only right thing to do.",
     "speaker":"Haruki Murakami"
   }
+
 ]
