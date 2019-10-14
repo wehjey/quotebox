@@ -70,7 +70,11 @@
   {
     "quote": "People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.",
     "speaker": "Pedro Domingos (Author of The Master Algorithm)"
-   },
+  },
+  {
+    "quote": "Pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
+    "speaker": "Maya Angelou"
+  },
   {
     "quote": "Pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
     "speaker": "Maya Angelou"
@@ -176,8 +180,8 @@
     "quote": "The world is your oyster.",
     "speaker": "Shakespeare"
   },
-  {  
-    "quote":"You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
+  {
+    "quote": "You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
     "speaker": "Steve Jobs"
   },
   {
@@ -205,15 +209,15 @@
     "speaker": "Stephen Chbosky"
   },
   {
-    "quote":"Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
-    "speaker":"Chanakya, Indian philosopher, economist, jurist and royal advisor."
+    "quote": "Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
+    "speaker": "Chanakya, Indian philosopher, economist, jurist and royal advisor."
   },
   {
     "quote": "Lightning makes no sound until it strikes.",
     "speaker": "Martin Luther King Jr."
   },
   {
-  	"quote": "I do not fear computers. I fear the lack of them.",
+    "quote": "I do not fear computers. I fear the lack of them.",
     "speaker": "Isaac Asimov"
   },
   {
@@ -243,7 +247,6 @@
     "speaker": "Sun Tzu"
   },
   {
-
     "quote": "Even the darkest night will end and the sun will rise.",
     "speaker": "Victor hugo"
   },
@@ -262,6 +265,11 @@
   {
     "quote": "No valid plans for the future can be made by those who have no capacity for living now",
     "speaker": "Alan Watts"
+
+  },
+  {
+    "quote": "The reality is: sometimes you lose. And you’re never too good to lose. You’re never too big to lose. You’re never too smart to lose. It happens.",
+    "speaker": "Beyoncé Knowles"
 
   },
   {
